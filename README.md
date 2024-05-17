@@ -1,31 +1,30 @@
 # BudgetBuddy
 
-##BudgetBuddy: Manage Your Money Like a Pro (Frontend Only)
+## BudgetBuddy: Manage Your Money Like a Pro (Frontend Only)
 Budget your way to financial freedom!  BudgetBuddy is a student-focused money management website (frontend only for now).
 
 Track expenses, create budgets, smash savings goals, and get timely reminders. Stay organized and in control of your finances.
 
-##Features:
+## Features:
 
-Effortless Expense Tracking & Insights
-Smart Budgeting for Different Categories
-Set & Track Savings Goals (dream vacation, anyone?)
-Customizable Reminders (never miss a rent payment!)
-
-
-##Coming Soon (Backend In Progress):
-
-Bank integration for automatic transactions
-Personalized financial tips
-Advanced budgeting tools
-Secure data storage
+- Effortless Expense Tracking & Insights
+- Smart Budgeting for Different Categories
+- Set & Track Savings Goals (dream vacation, anyone?)
+- Customizable Reminders (never miss a rent payment!)
 
 
-##Built With:
+## Coming Soon (Backend In Progress):
 
-HTML
-CSS
-JavaScript
+- Personalized financial tips
+- Advanced budgeting tools
+- Secure data storage
 
 
-##Stay tuned for the full experience!
+## Built With:
+
+- HTML
+- CSS
+- JavaScript
+- BootStrap
+
+## Stay tuned for the full experience!
